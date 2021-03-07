@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![](screenshots/screenshot.gif)
+<img width="400px" src="screenshots/screenshot.gif"/>
 
 ### Apk
 
